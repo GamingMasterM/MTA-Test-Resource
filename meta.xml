@@ -16,11 +16,17 @@
 		<!-- dx-animations -->
 			<script src="client/dx_animations/main.lua" type="client" cache="false" />
 
+		<!-- callback_functions -->
+			<script src="client/callback_functions/main.lua" type="client" cache="false" />
+
 	<!-- Server -->
 		<script src="server/main.lua" type="server" />
 
 	<!-- Resources -->
 		<!-- Images -->
 			<file src="res/img/logo_512.png"/>
+
+		<!-- txt -->
+			<file src="res/txt/wichtig.txt" download="false"/>
 
 </meta>

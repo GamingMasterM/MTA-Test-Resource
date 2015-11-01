@@ -1,5 +1,5 @@
 if isTestable("dx_animations") then
-  setFPSLimit(25)
+  setFPSLimit(60)
   local bActive = false
   local iX = 0
   local iFPS = 40
