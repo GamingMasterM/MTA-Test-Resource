@@ -1,6 +1,6 @@
 <meta>
 	<!-- Info -->
-		<info version="1.0" author="MasterM" type="misc" name="test" description="testing resource for various code snippets"/>
+		<info version="1.25" author="MasterM" type="misc" name="test" description="testing resource for various code snippets"/>
 		<min_mta_version client="1.5" server="1.5"></min_mta_version>
 		<aclrequest>
 			<right name="function.startResource" access="true" />
@@ -21,6 +21,8 @@
 
 	<!-- Server -->
 		<script src="server/main.lua" type="server" />
+		<!-- database -->
+			<script src="server/database/main.lua" type="server" />
 
 	<!-- Resources -->
 		<!-- Images -->

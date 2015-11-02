@@ -3,7 +3,8 @@ CLIENT = not triggerClientEvent
 DEBUG = true
 tblLoadedTests = {
   ["dx_animations"] = false,
-  ["callback_functions"] = true
+  ["callback_functions"] = false,
+  ["database"] = true
 }
 
 function isTestable(sCurrentTest)
