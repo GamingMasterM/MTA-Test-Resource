@@ -13,6 +13,7 @@
 
 	<!-- Client -->
 		<script src="client/main.lua" type="client" cache="false" />
+		<script src="client/mapEditorScriptingExtension_c.lua" type="client" cache="false" />
 		<!-- dx-animations -->
 			<script src="client/dx_animations/main.lua" type="client" cache="false" />
 
@@ -21,12 +22,16 @@
 
 	<!-- Server -->
 		<script src="server/main.lua" type="server" />
+		<script src="server/mapEditorScriptingExtension_s.lua" type="server" />
 		<!-- database -->
 			<script src="server/database/main.lua" type="server" />
 
 	<!-- Resources -->
 		<!-- Images -->
 			<file src="res/img/logo_512.png"/>
+
+		<!-- Maps -->
+			<map src="res/map/Weihnachtsbaum.map"/>
 
 		<!-- txt -->
 			<file src="res/txt/wichtig.txt" download="false"/>
