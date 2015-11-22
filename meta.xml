@@ -20,11 +20,17 @@
 		<!-- callback_functions -->
 			<script src="client/callback_functions/main.lua" type="client" cache="false" />
 
+		<!-- hatsystem -->
+			<script src="client/hatsystem/main.lua" type="client" cache="false" />
+
 	<!-- Server -->
 		<script src="server/main.lua" type="server" />
 		<script src="server/mapEditorScriptingExtension_s.lua" type="server" />
 		<!-- database -->
 			<script src="server/database/main.lua" type="server" />
+
+		<!-- hatsystem -->
+			<script src="server/hatsystem/main.lua" type="server" />
 
 	<!-- Resources -->
 		<!-- Images -->
@@ -32,6 +38,10 @@
 
 		<!-- Maps -->
 			<map src="res/map/Weihnachtsbaum.map"/>
+
+		<!-- Mods -->
+			<file src="res/mods/santahat.dff"/>
+			<file src="res/mods/santahat.txd"/>
 
 		<!-- txt -->
 			<file src="res/txt/wichtig.txt" download="false"/>

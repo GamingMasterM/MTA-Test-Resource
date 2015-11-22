@@ -4,7 +4,8 @@ DEBUG = true
 tblLoadedTests = {
   ["dx_animations"] = false,
   ["callback_functions"] = false,
-  ["database"] = true
+  ["database"] = false,
+  ["hatsystem"] = true
 }
 
 function isTestable(sCurrentTest)
