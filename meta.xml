@@ -23,6 +23,9 @@
 		<!-- hatsystem -->
 			<script src="client/hatsystem/main.lua" type="client" cache="false" />
 
+		<!-- xmaslights -->
+			<script src="client/xmaslights/main.lua" type="client" cache="false" />
+
 	<!-- Server -->
 		<script src="server/main.lua" type="server" />
 		<script src="server/mapEditorScriptingExtension_s.lua" type="server" />
@@ -31,6 +34,9 @@
 
 		<!-- hatsystem -->
 			<script src="server/hatsystem/main.lua" type="server" />
+
+		<!-- xmaslights -->
+			<script src="server/xmaslights/main.lua" type="server" />
 
 	<!-- Resources -->
 		<!-- Images -->

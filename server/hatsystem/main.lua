@@ -3,7 +3,7 @@ if isTestable("hatsystem") then
 	local hats = {}
 	local standardPos  = {-0.03,0.03,0.15,0,0,90}
 	local hatPos = {
-		[294] = {-0.03,0.03,0.15,0,0,90},
+		[294] = {-0.02, 0.03,0.15,0,0,90},
 		[0] = {-0.03,0.03,0.15,0,0,-90},
 	}
 
