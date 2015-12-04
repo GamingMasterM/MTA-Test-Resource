@@ -5,8 +5,9 @@ tblLoadedTests = {
   ["dx_animations"] = false,
   ["callback_functions"] = false,
   ["database"] = false,
-  ["hatsystem"] = true,
-  ["xmaslights"] = true
+  ["hatsystem"] = false,
+  ["xmaslights"] = false,
+  ["dxGridlist"] = true
 }
 
 function isTestable(sCurrentTest)
