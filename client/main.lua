@@ -12,7 +12,7 @@ lp = getLocalPlayer()
 scx, scy = guiGetScreenSize()
 
 
-
+setDevelopmentMode(true)
 
 
 --//

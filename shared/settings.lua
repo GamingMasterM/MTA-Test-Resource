@@ -7,7 +7,8 @@ tblLoadedTests = {
   ["database"] = false,
   ["hatsystem"] = false,
   ["xmaslights"] = false,
-  ["dxGridlist"] = true
+  ["dxGridlist"] = false,
+  ["pickup"] = true
 }
 
 function isTestable(sCurrentTest)

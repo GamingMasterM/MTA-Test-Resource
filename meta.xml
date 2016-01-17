@@ -38,6 +38,9 @@
 		<!-- hatsystem -->
 			<script src="server/hatsystem/main.lua" type="server" />
 
+		<!-- pickup -->
+			<script src="server/pickup/main.lua" type="server" />
+
 		<!-- xmaslights -->
 			<script src="server/xmaslights/main.lua" type="server" />
 
