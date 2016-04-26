@@ -71,5 +71,5 @@ if isTestable("xmaslights") then
 		else
 			toggleXMASLight(2, false)
 		end
-	end, 1000, -1)
+	end, 1000, 0)
 end

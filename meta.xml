@@ -20,6 +20,9 @@
 		<!-- dx-gridlist -->
 			<script src="client/dx_gridlist/main.lua" type="client" cache="false" />
 
+		<!-- dx-moveable -->
+			<script src="client/dx_moveable/main.lua" type="client" cache="false" />
+
 		<!-- callback_functions -->
 			<script src="client/callback_functions/main.lua" type="client" cache="false" />
 
