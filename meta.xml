@@ -23,6 +23,9 @@
 		<!-- dx-moveable -->
 			<script src="client/dx_moveable/main.lua" type="client" cache="false" />
 
+		<!-- element_data -->
+			<script src="client/element_data/main.lua" type="client" cache="false" />
+
 		<!-- callback_functions -->
 			<script src="client/callback_functions/main.lua" type="client" cache="false" />
 
@@ -37,6 +40,9 @@
 		<script src="server/mapEditorScriptingExtension_s.lua" type="server" />
 		<!-- database -->
 			<script src="server/database/main.lua" type="server" />
+
+		<!-- element_data -->
+			<script src="server/element_data/main.lua" type="server" />
 
 		<!-- hatsystem -->
 			<script src="server/hatsystem/main.lua" type="server" />
