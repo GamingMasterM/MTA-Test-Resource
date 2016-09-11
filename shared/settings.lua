@@ -10,7 +10,8 @@ tblLoadedTests = {
   ["dxGridlist"] = false,
   ["pickup"] = false,
   ["dx_moveable"] = false,
-  ["element_data"] = true,
+  ["element_data"] = false,
+  ["table"] = true,
 }
 
 function isTestable(sCurrentTest)

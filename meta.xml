@@ -50,6 +50,9 @@
 		<!-- pickup -->
 			<script src="server/pickup/main.lua" type="server" />
 
+		<!-- table -->
+			<script src="server/table/main.lua" type="server" />
+			
 		<!-- xmaslights -->
 			<script src="server/xmaslights/main.lua" type="server" />
 
